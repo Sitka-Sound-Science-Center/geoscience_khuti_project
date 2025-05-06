@@ -1,4 +1,5 @@
-# Ḵutí Project - Collaborative Hazard Mitigation in Southeast Alaska
+# Ḵutí Project 
+### Collaborative Hazard Mitigation in Southeast Alaska
 
 ## Overview
 The **Ḵutí Project**—named after the Tlingit word for *weather*—is a five-year NSF-funded initiative focused on developing tools to mitigate risks from precipitation-induced hazards such as landslides and floods in Southeast Alaska. The project brings together atmospheric scientists, geoscientists, hydrologists, social scientists, and, most importantly, community leaders and Tribal environmental staff.
