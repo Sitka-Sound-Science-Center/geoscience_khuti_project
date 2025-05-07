@@ -57,7 +57,7 @@ Key strategies include:
 - **Kenneth Weitzel** – *Regional Geoscience Specialist*  
 - **James Refuerzo** – *Regional Geoscience Specialist*
 
-### Oregon State University – OPEnS Lab
+### Oregon State University
 - **John Selker, Ph.D.**  
 - **Chet Udell, Ph.D.**
 
