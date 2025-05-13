@@ -112,6 +112,6 @@ SLIPP Community of Practice Meetings occur virtually on the **last Thursday of e
 
 ---
 ## Data Statements
-View the Ḵutí Project Data Statement on the website at [www.kutiproject.org](www.www.kutiproject.org)
+View the Ḵutí Project Data Statement on the website at [kutiproject.org](www.kutiproject.org)
 [Sitka Sound Science Center Research Data Statement](https://github.com/Sitka-Sound-Science-Center/research_data_statement)
 *Last updated: May 2025*
