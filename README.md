@@ -111,5 +111,7 @@ SLIPP Community of Practice Meetings occur virtually on the **last Thursday of e
 - [Alaska Landslide Research Resources Database](https://docs.google.com/spreadsheets/d/1UJJnXcTNqIOBb8u9dFThlVdzbf5geZQPzrpGkZjZciI/edit#gid=9487562)
 
 ---
-
+## Data Statements
+View the Ḵutí Project Data Statement on the website at [www.kutiproject.org](www.www.kutiproject.org)
+[Sitka Sound Science Center Research Data Statement](https://github.com/Sitka-Sound-Science-Center/research_data_statement)
 *Last updated: May 2025*
